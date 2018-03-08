@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_TDD/04_TDD.iml" filepath="$PROJECT_DIR$/04_TDD/04_TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05E_FactoryMethode.iml" filepath="$PROJECT_DIR$/05E_FactoryMethode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_DesignPatterns/05_DesignPatterns.iml" filepath="$PROJECT_DIR$/05_DesignPatterns/05_DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$//06_Logging.iml" filepath="$PROJECT_DIR$//06_Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1718_g1_litec_KAINANIK.iml" filepath="$PROJECT_DIR$/1718_g1_litec_KAINANIK.iml" />
+      <module fileurl="file://$PROJECT_DIR$//Blabla.iml" filepath="$PROJECT_DIR$//Blabla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blabla.iml" filepath="$PROJECT_DIR$/blabla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test22.iml" filepath="$PROJECT_DIR$/test22.iml" />
+      <module fileurl="file://$PROJECT_DIR$//test9.iml" filepath="$PROJECT_DIR$//test9.iml" />
+    </modules>
+  </component>
+</project>
